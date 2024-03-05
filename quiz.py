@@ -14,8 +14,7 @@ print (iso)
 print (kj)
 print (omen)
 a = input("> ")
-right_answer1 = a
-if right_answer1:
+if a:
     print("Correct!")
 else:
     print("Incorrect.")
